@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="xxx" style="text-decoration:none"><img src="https://img.shields.io/badge/arXiv-2506.21448-b31b1b.svg" alt="arXiv"/></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="xxx" style="text-decoration:none"><img src="https://img.shields.io/badge/GitHub.io-Code-blue?logo=Github&style=flat-square" alt="GitHub"/></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://yjx-research.github.io/ControlFoley_web_page/" style="text-decoration:none"><img src="https://img.shields.io/badge/Project Page-Project-blue" alt="Project Page"/></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://yjx-research.github.io/ControlFoley_demo_page/" style="text-decoration:none"><img src="https://img.shields.io/badge/Demo Page-Demo-blue" alt="Demo Page"/></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="xxx" style="text-decoration:none"><img src="https://img.shields.io/badge/HuggingFace-Models-orange?logo=huggingface" alt="Hugging Face"/></a>
 </p>
 
